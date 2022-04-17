@@ -15,7 +15,7 @@
         <RelativeLayout
             android:layout_width="375dp"
             android:layout_height="1437dp"
-            android:background="@color/Gray_100"
+            android:background="@color/white"
             android:layout_gravity="center_horizontal"
             android:elevation="@dimen/dimen16"
             android:orientation="vertical">
