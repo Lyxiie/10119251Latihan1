@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <font-family xmlns:android="http://schemas.android.com/apk/res/android">
     <font
-        android:font="@font/Lato_Regular"
-        android:fontWeight="400"/>
+        android:font="@font/lato_regular"
+        android:fontWeight="400"></font>
 </font-family>
 
     <!--Tanggal Pengerjaan : 14-15 April 2022-->

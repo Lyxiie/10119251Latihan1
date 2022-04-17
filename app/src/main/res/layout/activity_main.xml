@@ -29,7 +29,8 @@
                 android:layout_marginLeft="33.45dp"
                 android:layout_marginTop="17.17dp"
                 android:background="@drawable/jam"
-                android:textStyle="bold"></TextView>
+                android:textStyle="bold">
+            </TextView>
 
             <ImageView
                 android:id="@+id/signal"
@@ -45,11 +46,12 @@
                 android:id="@+id/wifi"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="@drawable/Wifi"
+                android:background="@drawable/wifi"
                 android:layout_toRightOf="@id/signal"
                 android:layout_marginTop="17.67dp"
                 android:layout_marginLeft="5.03dp"
-                android:layout_marginStart="5.03dp"></ImageView>
+                android:layout_marginStart="5.03dp">
+            </ImageView>
 
             <ImageView
                 android:layout_width="wrap_content"
@@ -134,7 +136,7 @@
                 android:layout_marginStart="@dimen/dimen16"
                 android:layout_marginLeft="@dimen/dimen16"
                 android:layout_marginTop="@dimen/dimen24"
-                android:background="@drawable/Ellipse_1"></ImageView>
+                android:background="@drawable/ellipse_1"></ImageView>
 
             <TextView
                 android:id="@+id/tulisan_Dias"
